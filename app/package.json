@@ -1,0 +1,26 @@
+{
+  "name": "gummersbach-webentwickler",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "less": "^4.1.2",
+    "less-loader": "^11.0.0",
+    "plausible-tracker": "^0.3.5",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.9",
+    "vite-plugin-pwa": "^0.12.0"
+  }
+}
